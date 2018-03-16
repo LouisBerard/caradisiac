@@ -1,0 +1,90 @@
+{ "index":{ "_id": "0"} }
+{"brand":"AUDI","model":"Audi A1","volume":"270","uuid":"61b75aac-77f0-5d72-9c72-96700f7393ea","name":"(2) 1.0 TFSI 82 ULTRA"}
+{ "index":{ "_id": "1"} }
+{"brand":"AUDI","model":"Audi A1 Sportback","volume":"270","uuid":"c44aec35-ec80-5998-889c-9cf8eac5db2d","name":"(2) SPORTBACK 1.0 TFSI 82 ULTRA"}
+{ "index":{ "_id": "2"} }
+{"brand":"AUDI","model":"Audi A3 (3e Generation) Berline","volume":"380","uuid":"92931c15-2d16-5fe9-b24d-b8e4b9d6f754","name":"III (2) 1.4 TFSI COD 150"}
+{ "index":{ "_id": "3"} }
+{"brand":"AUDI","model":"Audi A3 (3e Generation) Cabriolet","volume":"320","uuid":"dc75e77d-ddc0-5a13-9f32-593ef2d33a95","name":"III (2) CABRIOLET 1.4 TFSI 115"}
+{ "index":{ "_id": "4"} }
+{"brand":"AUDI","model":"Audi A3 (3e Generation) Sportback","volume":"","uuid":"0ebf8bf5-5d76-528b-8386-a0937ea21b78","name":"III (2) 2.0 TDI 184 MIDNIGHT SERIES QUATTRO S TRONIC"}
+{ "index":{ "_id": "5"} }
+{"brand":"AUDI","model":"Audi A4 (5e Generation)","volume":"480","uuid":"eddf943d-1e37-5f28-8841-0a22b3871396","name":"V 1.4 TFSI 150"}
+{ "index":{ "_id": "6"} }
+{"brand":"AUDI","model":"Audi A4 (5e Generation) Avant","volume":"","uuid":"34b63f0e-96b6-5e23-81b4-d283135d4fc2","name":"V AVANT 1.4 TFSI 150"}
+{ "index":{ "_id": "7"} }
+{"brand":"AUDI","model":"Audi A5 (2e Generation)","volume":"","uuid":"a732370f-10eb-517c-a465-40eeff92c09a","name":"II 1.4 TFSI 150 AVUS S TRONIC"}
+{ "index":{ "_id": "8"} }
+{"brand":"AUDI","model":"Audi A5 (2e Generation) Cabriolet","volume":"380","uuid":"6c695af6-941c-5317-8ea0-f317bb8c9e86","name":"II CABRIOLET 2.0 TDI 190 10CV DESIGN LUXE S TRONIC 7"}
+{ "index":{ "_id": "9"} }
+{"brand":"AUDI","model":"Audi A5 Sportback (2e Generation)","volume":"480","uuid":"e117f144-4344-5777-932e-1dca1f32582c","name":"II SPORTBACK 1.4 TFSI 150 AVUS S TRONIC 7"}
+{ "index":{ "_id": "10"} }
+{"brand":"AUDI","model":"Audi A6 (4e Generation)","volume":"","uuid":"196f01fd-3d41-5076-b109-f56a3543acc6","name":"IV (2) 2.0 TDI 150 ULTRA AMBIENTE"}
+{ "index":{ "_id": "11"} }
+{"brand":"AUDI","model":"Audi A6 (4e Generation) Avant","volume":"565","uuid":"ee8c8c9a-20f4-5823-943c-9242f0bae009","name":"IV (2) AVANT 2.0 TDI 150 ULTRA AMBIENTE"}
+{ "index":{ "_id": "12"} }
+{"brand":"AUDI","model":"Audi A7 Sportback 2","volume":"535","uuid":"e6395814-8feb-5da8-a7f4-10861e4820a7","name":"II 50 TDI AVUS EXTENDED QUATTRO TIPTRONIC 8"}
+{ "index":{ "_id": "13"} }
+{"brand":"AUDI","model":"Audi A8 (3e Generation)","volume":"487","uuid":"9212db30-083b-5e29-8381-e298d39189d8","name":"III (2) 4.2 V8 TDI 385 LIMOUSINE AVUS QUATTRO SPORT"}
+{ "index":{ "_id": "14"} }
+{"brand":"AUDI","model":"Audi A8 (4e Generation)","volume":"","uuid":"97117da2-bf9d-52e0-9656-39216ee811bc","name":"IV 50 TDI 286 AVUS EXTENDED QUATTRO LWB TIPTRONIC 8"}
+{ "index":{ "_id": "15"} }
+{"brand":"AUDI","model":"Audi Q2","volume":"","uuid":"c2ef8638-6305-5e6b-83bb-a51e5adac6cb","name":"1.0 TFSI 116"}
+{ "index":{ "_id": "16"} }
+{"brand":"AUDI","model":"Audi Q3","volume":"460","uuid":"806283b6-9d02-5fee-ba13-bfd9d9b34099","name":"(2) 1.4 TFSI 125"}
+{ "index":{ "_id": "17"} }
+{"brand":"AUDI","model":"Audi Q5 (2e Generation)","volume":"550","uuid":"aecee3cb-cd07-5859-b424-230b6df49c78","name":"II 2.0 TDI 150"}
+{ "index":{ "_id": "18"} }
+{"brand":"AUDI","model":"Audi Q7 (2e Generation)","volume":"890","uuid":"e456d802-8533-5a4d-94f5-5864d2641856","name":"II 3.0 TDI CD 272 AVUS EXTENDED QUATTRO TIPTRONIC"}
+{ "index":{ "_id": "19"} }
+{"brand":"AUDI","model":"Audi R8 (2e Generation)","volume":"112","uuid":"9292c028-bca2-55c8-92aa-728b20e7c5ed","name":"II V10 5.2 FSI 540 QUATTRO S TRONIC"}
+{ "index":{ "_id": "20"} }
+{"brand":"AUDI","model":"Audi R8 (2e Generation) Spyder","volume":"112","uuid":"68f1fea5-a277-535c-a5a1-04a17be260a0","name":"II SPYDER 5.2 V10 RWS"}
+{ "index":{ "_id": "21"} }
+{"brand":"AUDI","model":"Audi Rs3 (2e Generation) Berline","volume":"315","uuid":"4bc28ea6-e6ef-555e-8c86-196800e1b4b6","name":"II (2) BERLINE 2.5 TFSI 400 QUATTRO S TRONIC"}
+{ "index":{ "_id": "22"} }
+{"brand":"AUDI","model":"Audi Rs3 (2e Generation) Sportback","volume":"","uuid":"028309d6-5738-5bd2-b8bd-f63bc6f7c862","name":"II (2) SPORTBACK 2.5 TFSI 400 QUATTRO S TRONIC"}
+{ "index":{ "_id": "23"} }
+{"brand":"AUDI","model":"Audi Rs4 (5e Generation) Avant","volume":"505","uuid":"13fe90e0-e108-52be-86b0-e1869d02b437","name":"V AVANT V6 2.9 TFSI 450 QUATTRO TIPTRONIC"}
+{ "index":{ "_id": "24"} }
+{"brand":"AUDI","model":"Audi Rs5 (2e Generation)","volume":"465","uuid":"f0fcd5d4-3581-591d-a9b7-82e9c8c49cfe","name":"II 2.9 TFSI 450 QUATTRO TIPTRONIC 8"}
+{ "index":{ "_id": "25"} }
+{"brand":"AUDI","model":"Audi Rs6 (3e Generation) Avant","volume":"","uuid":"c4589d8d-39ba-5565-8886-29e7dffd5ddb","name":"III (2) AVANT 4.0 TFSI 560 QUATTRO TIPTRONIC"}
+{ "index":{ "_id": "26"} }
+{"brand":"AUDI","model":"Audi S1","volume":"","uuid":"6f054827-32cc-58b7-912a-403230ea06f0","name":"2.0 TFSI 231"}
+{ "index":{ "_id": "27"} }
+{"brand":"AUDI","model":"Audi S1 Sportback","volume":"","uuid":"2aceb518-93f0-5036-8139-6dfd2742643e","name":"SPORTBACK 2.0 TFSI 231"}
+{ "index":{ "_id": "28"} }
+{"brand":"AUDI","model":"Audi S3 (3e Generation) Berline","volume":"","uuid":"abc38f41-6976-5061-b19b-3edef3f3e52e","name":"III (2) BERLINE2.0 TFSI 310 20CV QUATTRO S TRONIC 7"}
+{ "index":{ "_id": "29"} }
+{"brand":"AUDI","model":"Audi S3 (3e Generation) Cabriolet","volume":"285","uuid":"54a67560-e2a8-5492-bab1-396d3ac41d79","name":"III (2) CABRIOLET 2.0 TFSI 310 QUATTRO S TRONIC 7"}
+{ "index":{ "_id": "30"} }
+{"brand":"AUDI","model":"Audi S3 (3e Generation) Sportback","volume":"340","uuid":"1dc6ce47-5a03-5e04-8797-4b4228fec38a","name":"III (2) SPORTBACK 2.0 TFSI 310 QUATTRO S TRONIC 7"}
+{ "index":{ "_id": "31"} }
+{"brand":"AUDI","model":"Audi S4 (5e Generation)","volume":"480","uuid":"463a2ef2-e1b2-5283-af7a-ff676f38c601","name":"V 3.0 TFSI 354 QUATTRO TIPTRONIC"}
+{ "index":{ "_id": "32"} }
+{"brand":"AUDI","model":"Audi S4 Avant (5e Generation)","volume":"","uuid":"47f45d1d-f6cf-55b8-8519-0d41bd2db1ee","name":"V AVANT 3.0 TFSI 354 QUATTRO TIPTRONIC"}
+{ "index":{ "_id": "33"} }
+{"brand":"AUDI","model":"Audi S5 (2e Generation)","volume":"","uuid":"43cf4ec0-bbef-57ee-b1b1-096db1685147","name":"II 3.0 TFSI 354 QUATTRO TIPTRONIC 8"}
+{ "index":{ "_id": "34"} }
+{"brand":"AUDI","model":"Audi S5 (2e Generation) Cabriolet","volume":"380","uuid":"4ceb0a80-83c8-5c46-975c-f2a012d5668f","name":"II CABRIOLET 3.0 TFSI 354 QUATTRO TIPTRONIC 8"}
+{ "index":{ "_id": "35"} }
+{"brand":"AUDI","model":"Audi S5 Sportback (2e Generation)","volume":"","uuid":"2ede3c31-6dda-5f69-bc0b-b15caa13af33","name":"II SPORTBACK 3.0 TFSI 354 QUATTRO TIPTRONIC 8"}
+{ "index":{ "_id": "36"} }
+{"brand":"AUDI","model":"Audi S6 (4e Generation)","volume":"530","uuid":"c64a0c9b-fd1f-5d09-be01-3ba50d5f2d32","name":"IV (2) 4.0 V8 TFSI 420 QUATTRO S TRONIC 7"}
+{ "index":{ "_id": "37"} }
+{"brand":"AUDI","model":"Audi S6 Avant (4e Generation)","volume":"565","uuid":"b7572d20-92ec-5120-973d-0d078e651eb8","name":"IV (2) AVANT 4.0 TFSI 420 QUATTRO S TRONIC 7"}
+{ "index":{ "_id": "38"} }
+{"brand":"AUDI","model":"Audi S8 (3e Generation)","volume":"","uuid":"1dca6eb5-a9ab-5732-9f7e-a84a4b41d9a3","name":"III (2) 4.0 TFSI 520 SPORT QUATTRO TIPTRONIC"}
+{ "index":{ "_id": "39"} }
+{"brand":"AUDI","model":"Audi Sq5 (2e Generation)","volume":"550","uuid":"c6d41caf-7a40-5fe3-80dc-86baabb52a36","name":"II 3.0 V6 TFSI 354 QUATTRO TIPTRONIC 8"}
+{ "index":{ "_id": "40"} }
+{"brand":"AUDI","model":"Audi Sq7 (2e Generation)","volume":"803","uuid":"65f3d50e-c7a6-5e9a-939d-614c63482262","name":"II 4.0 TDI 435 QUATTRO TIPTRONIC"}
+{ "index":{ "_id": "41"} }
+{"brand":"AUDI","model":"Audi Tt 3","volume":"","uuid":"2fd0f18f-eb52-544e-9b9d-d42cdcac499d","name":"III 2.0 TDI 184 QUATTRO S TRONIC"}
+{ "index":{ "_id": "42"} }
+{"brand":"AUDI","model":"Audi Tt 3 Roadster","volume":"280","uuid":"93406e29-980b-5a07-a53f-2f72e9b908bf","name":"III ROADSTER 1.8 TFSI 180"}
+{ "index":{ "_id": "43"} }
+{"brand":"AUDI","model":"Audi Tt 3 S","volume":"","uuid":"f9f2989c-8a9f-5072-bcad-f054c5edad8c","name":"III COUPE 2.0 TFSI 310 QUATTRO S TRONIC"}
+{ "index":{ "_id": "44"} }
+{"brand":"AUDI","model":"Audi Tt 3 S Roadster","volume":"280","uuid":"594d2b95-9e1a-5646-b562-c81bd2cc9ab7","name":"III ROADSTER 2.0 TFSI 310 QUATTRO S TRONIC"}
